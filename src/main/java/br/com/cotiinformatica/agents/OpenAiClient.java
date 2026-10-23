@@ -8,7 +8,7 @@ public class OpenAiClient {
     public String perguntar(String usuario, String pergunta) throws Exception {
 
         //Configurar a chave de autenticação da OpenAI
-        var chave = "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";
+
 
         //Configurar o modelo do chatgpt usado
         var modelo = "gpt-6-luna";
